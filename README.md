@@ -1,4 +1,4 @@
-# ID_Customer_Segmenets
+# ID Customer Segmenets
 WGU | Machine Learning | Unsupervised Learning
 
 ----
